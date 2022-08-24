@@ -5,3 +5,6 @@
     <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-freire&layout=compact&langs_count=7&theme=highcontrast"/>
   </div>
 </div>
+
+## Snake eating my contribution graph
+![snake gif](https://github.com/math-freire/math-freire/blob/output/github-contribution-grid-snake.gif)
