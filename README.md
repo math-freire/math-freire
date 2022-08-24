@@ -6,5 +6,6 @@
   </div>
 </div>
 
-## Snake eating my contribution graph
+### Olá, eu sou o Matheus 👋
 ![snake gif](https://github.com/math-freire/math-freire/blob/output/github-contribution-grid-snake.gif)
+  
